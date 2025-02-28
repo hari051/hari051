@@ -17,12 +17,12 @@ I'm a **Full-Stack Developer** with expertise in building scalable and efficient
 
 As a **Full-Stack Developer**, I specialize in both frontend and backend development, ensuring seamless and efficient application performance.  
 
- 🖥️**Frontend:** HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
-🏗️**Backend:** Java, Spring Boot, REST APIs, Spring JDBC  
-🗄️**Database:** MySQL  
-🚀**DevOps:** Docker  
-🔗**Version Control:** Git  
-🛠️**Tools:** Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
+🖥️ **Frontend:** HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
+🏗️ **Backend:** Java, Spring Boot, REST APIs, Spring JDBC  
+🗄️ **Database:** MySQL  
+🚀 **DevOps:** Docker  
+🔗 **Version Control:** Git  
+🛠️ **Tools:** Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
 
 ---
 
