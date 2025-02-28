@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hari Krishnan
 
-<!--
-**hari051/hari051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with 2 years of experience, specializing in **Angular, Spring Boot, MySQL, and Docker**. I love building scalable web applications and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **B.Sc. in Computer Science** from Bharathidhasan University
+- 💼 **Software Developer** at Niiv Software Private Limited, Trichy
+- 🔧 Experienced in **Java, Spring Boot, Angular, REST APIs, MySQL, Docker**
+- 🌍 Open to collaborations on exciting projects
+- 📖 Currently improving my **English communication skills** for technical discussions
+- 💡 Passionate about **web development, backend architecture, and DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap, TypeScript, Angular
+- **Backend:** Java, Spring Boot, REST APIs
+- **Database:** MySQL
+- **DevOps & Tools:** Docker, Git, Postman, IntelliJ IDEA, DBeaver, VS Code
+
+## 📈 GitHub Stats
+![Hari Krishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari-web-dev&show_icons=true&theme=radical)
+
+## 📫 Get in Touch
+- 📧 **Email:** [harikrishnan2001m@gmail.com](mailto:harikrishnan2001m@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/hari-krishnan](https://www.linkedin.com/in/hari-krishnan)
+- 🌐 **Portfolio:** Coming soon!
+
+💖 Thanks for visiting my profile! Feel free to connect and collaborate! 😊
+
