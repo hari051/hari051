@@ -1,38 +1,38 @@
 ### Hi there, I'm Hari Krishnan! 👋  
 
-I'm a **Full-Stack Developer** with expertise in building scalable and efficient web applications. Passionate about coding, problem-solving, and learning new technologies.
+I'm a **Full-Stack Developer** with expertise in building scalable and efficient web applications. Passionate about coding, problem-solving, and learning new technologies.  
 
 ---
 
 ## 🚀 About Me  
 
-🎓 **Education:** B.Sc. in Computer Science from Bharathidhasan University  
-💼 **Work:** Software Developer at Niiv Software Private Limited, Trichy  
-🔧 **Skills:** Java, Spring Boot, Angular, REST APIs, MySQL, Docker  
-💡 **Passion:** Constantly improving and staying updated with the latest trends in software development.  
+🎓 **B.Sc. in Computer Science** from Bharathidhasan University  
+💼 **Software Developer** at Niiv Software Private Limited, Trichy  
+🔧 **Experienced in:** Java, Spring Boot, Angular, REST APIs, MySQL, Docker  
+💡 Constantly improving and staying updated with the latest trends in software development.  
 
 ---
 
 ## 💻 What I Do  
 
-I specialize in both **Frontend** and **Backend** development, ensuring seamless and efficient application performance.  
+As a **Full-Stack Developer**, I specialize in both frontend and backend development, ensuring seamless and efficient application performance.  
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
-- **Backend:** Java, Spring Boot, REST APIs, Spring JDBC  
-- **Database:** MySQL  
-- **DevOps:** Docker  
-- **Version Control:** Git  
-- **Tools:** Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
+**Backend:** Java, Spring Boot, REST APIs, Spring JDBC  
+**Database:** MySQL  
+**DevOps:** Docker  
+**Version Control:** Git  
+**Tools:** Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
 
 ---
 
 ## 📫 Connect with Me  
 
-<p align="right">
-  <a href="mailto:harikrishnan2001m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  <a href="https://hari-portfolio-fe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
-  <a href="https://www.linkedin.com/in/harikrishnan-m2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="https://www.instagram.com/hari__051/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<p align="start">
+  <a href="mailto:harikrishnan2001m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://hari-portfolio-fe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harikrishnan-m2001/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/hari__051/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -40,17 +40,17 @@ I specialize in both **Frontend** and **Backend** development, ensuring seamless
 ## 🚀 Tech Stack & Skills  
 
 ### **Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 
 ### **Backend**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=rest&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=rest&logoColor=white)
 ![Spring JDBC](https://img.shields.io/badge/Spring%20JDBC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
 ### **Database**  
@@ -63,23 +63,11 @@ I specialize in both **Frontend** and **Backend** development, ensuring seamless
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ### **Tools**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sublime Merge](https://img.shields.io/badge/Sublime%20Merge-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)  
-
----
-
-## 📊 Most Used Languages  
-
-```plaintext
-Java          ██████████░░░░░░  80%
-TypeScript    ██████░░░░░░░░░  60%
-JavaScript    █████░░░░░░░░░░  50%
-HTML & CSS    ██████░░░░░░░░░  60%
-MySQL         ████░░░░░░░░░░░  40%
-```  
 
 ---
 
@@ -110,5 +98,10 @@ MySQL         ████░░░░░░░░░░░  40%
 
 ---
 
-⭐ **Thanks for visiting my profile!** 😊
+⭐ **Thanks for visiting my profile!** 😊  
 
+give proper particular postion add headiong 
+
+give small connet with me particular link give space right side 
+
+most laguage useed add percentage and progress bar 
