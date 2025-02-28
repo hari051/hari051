@@ -79,7 +79,7 @@ As a **Full-Stack Developer**, I specialize in both frontend and backend develop
 
 ## 📊 GitHub Stats
 
-![Hari Krishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harikrishnan2001m&show_icons=true&theme=radical)
+![Hari Krishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harikrishnan2001m&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harikrishnan2001m&layout=compact&theme=radical)
 
