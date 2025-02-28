@@ -28,20 +28,12 @@ I'm a **Full-Stack Developer** with expertise in building scalable and efficient
 
 As a **Full-Stack Developer**, I specialize in both frontend and backend development, ensuring seamless and efficient application performance.  
 
-### **Frontend Development**  
-✨ HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
-
-### **Backend Development**  
-🚀 Java, Spring Boot, REST APIs, Spring JDBC  
-
-### **Database Management**  
-🗄️ MySQL  
-
-### **DevOps & Version Control**  
-🐳 Docker, Git  
-
-### **Tools I Use**  
-🛠️ Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, TypeScript, Angular  
+**Backend:** Java, Spring Boot, REST APIs, Spring JDBC  
+**Database:** MySQL  
+**DevOps:** Docker  
+**Version Control:** Git  
+**Tools:** Visual Studio Code, IntelliJ IDEA, DBeaver, Postman, Sublime Merge  
 
 ---
 
@@ -81,15 +73,20 @@ As a **Full-Stack Developer**, I specialize in both frontend and backend develop
 
 ## 📊 GitHub Stats  
 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hari051&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Hari Krishnan's GitHub Stats">
+    </p>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari051&layout=compact&theme=radical" alt="Top Languages">
+    </p>
+  </div>
+</div>
+
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari051&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Hari Krishnan's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari051&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hari051&color=blue&style=flat" alt="Profile Views">
 </p>
 
