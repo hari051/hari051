@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with 2 years of exp
 - **Database:** MySQL
 - **DevOps & Tools:** Docker, Git, Postman, IntelliJ IDEA, DBeaver, VS Code
 
-## 📈 GitHub Stats
-![Hari Krishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari-web-dev&show_icons=true&theme=radical)
-
 ## 📫 Get in Touch
 - 📧 **Email:** [harikrishnan2001m@gmail.com](mailto:harikrishnan2001m@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/hari-krishnan](https://www.linkedin.com/in/hari-krishnan)
